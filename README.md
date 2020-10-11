@@ -19,6 +19,5 @@ I have interest in Programming, Machine Learning and IoT divices.
 still very rookie on IoT stuff but it is on my learning list!
 
 # My Active Projects
-## Milkstore
-link : https://github.com/chawza/milkstore
+* [Milkstore](https://github.com/chawza/milkstore)
 
