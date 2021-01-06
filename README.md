@@ -19,6 +19,6 @@ I have interest in Programming, Machine Learning and IoT divices.
 still very rookie on IoT stuff but it is on my learning list!
 
 # My Active Projects
-* [Milkstore](https://github.com/chawza/milkstore) - django with vanilla HTML/CSS
-* [Justdoit](https://github.com/chawza/justdoit) - laravel, MySql, and HTML/CSS/JS
+* [Milkstore](https://github.com/chawza/milkstore) - Django with vanilla HTML/CSS
+* [Justdoit](https://github.com/chawza/justdoit) - Laravel, MySql, and HTML/CSS/JS
 
