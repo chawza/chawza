@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 I have interest in Programming, Machine Learning and IoT divices.
 still very rookie on IoT stuff but it is on my learning list!
 
-# My Active Projects
+# Project Showcase
+## Active
 * [Milkstore](https://github.com/chawza/milkstore) - Django with vanilla HTML/CSS
+
+## Tech Tryout
 * [Justdoit](https://github.com/chawza/justdoit) - Laravel, MySql, and HTML/CSS/JS
+
+## Machine Learning
+* [Object Recognition](https://github.com/chawza/object-recognition) - OpenCV, Sklearn
+
 
