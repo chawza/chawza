@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I have interest in Programming, Machine Learning and IoT divices.
 still very rookie on IoT stuff but it is on my learning list!
 
+Visit my website [nabeelkm.com](nabeelkm.com)
+
 # Project Showcase
 ## Active
 * [Milkstore](https://github.com/chawza/milkstore) - Django with vanilla HTML/CSS
